@@ -11,7 +11,7 @@ Estes são meus E-mails para contato:
 #### Acadêmico:
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-00000F?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](VITOR.SOUZA@edu.pe.senac.br)
 
-Estas são as tecnologias que estou usando diráriamente:
+Estas são as tecnologias que estou usando dirariamente:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-00000F?style=for-the-badge&logo=node.js&logoColor=white)
