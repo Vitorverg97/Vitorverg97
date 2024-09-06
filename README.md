@@ -9,7 +9,7 @@ Estes são meus E-mails para contato:
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](vvs2697@gmail.com)
 
 #### Acadêmico:
-[![Outlook](https://img.shields.io/badge/MicrosoftOutlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](VITOR.SOUZA@edu.pe.senac.br)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](VITOR.SOUZA@edu.pe.senac.br)
 
 Estas são as tecnologias que estou usando dirariamente:
 
