@@ -18,4 +18,5 @@ Estas são as tecnologias que estou usando dirariamente:
 ![Vítor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorverg97&show_icons=true&theme=dark)
 
 *Contador de visitas*
+
 ![VisitorCount](https://profile-counter.glitch.me/{Vitorverg97}/count.svg)
