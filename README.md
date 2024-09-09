@@ -3,10 +3,7 @@
 
 ### Cursando ADS 1/5
 
-Estes são meus E-mails para contato:
-
-#### Pessoal: 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](vvs2697@gmail.com)
+E-mail para contato:
 
 #### Acadêmico:
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](VITOR.SOUZA@edu.pe.senac.br)
@@ -19,3 +16,5 @@ Estas são as tecnologias que estou usando dirariamente:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Vítor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorverg97&show_icons=true&theme=dark)
+
+![VisitorCount](https://profile-counter.glitch.me/{Vitorverg97}/count.svg)
