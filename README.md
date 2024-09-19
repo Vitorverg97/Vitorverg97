@@ -1,5 +1,5 @@
 
-# Olá eu seu o Vítor.Verg!
+# Olá eu sou o Vítor.Verg!
 
 ### Cursando ADS 1/5
 
