@@ -15,7 +15,7 @@ Estas são as tecnologias que estou usando dirariamente:
 ![JavaScript](https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-00000F?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-00000F?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![Vítor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorverg97&show_icons=true&theme=dark)
 
