@@ -1,7 +1,7 @@
 
 # Olá eu sou o Vítor! | # Hi i'm Vítor!
 
-![br](https://github.com/user-attachments/assets/8ddc86a1-3411-4e6b-b317-9f768d9e6f2f)
+**🇧🇷**
 
 ### Eu Sou um estudante da Faculdade Senac em Análise e Desenvolvimento de Sistemas, aprendendo estas habilidades:
 
