@@ -1,9 +1,13 @@
 
-# Olá eu sou o Vítor.Verg!
+# Olá eu sou o Vítor!
 
-### Cursando ADS 2/5
+# Hi i'm Vítor!
 
-Estas são as tecnologias que estou usando dirariamente:
+🇧🇷:
+
+### Eu Sou um estudante da Faculdade Senac em Análise e Desenvolvimento de Sistemas, aprendendo estas habilidades:
+
+### I am a Student at Senac College in Analysis and Systems Developer, learning these capabilities: 
 
 ![HyperText_Markup_Language](https://img.shields.io/badge/html-00000F?style=for-the-badge&logo=html5&logoColor=white)
 ![Cascading_Style_Sheets](https://img.shields.io/badge/css-00000F?style=for-the-badge&logo=css3&logoColor=white)
