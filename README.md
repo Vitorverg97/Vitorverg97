@@ -3,11 +3,6 @@
 
 ### Cursando ADS 2/5
 
-E-mail para contato:
-
-#### Acadêmico:
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-00000F?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](VITOR.SOUZA@edu.pe.senac.br)
-
 Estas são as tecnologias que estou usando dirariamente:
 
 ![HyperText_Markup_Language](https://img.shields.io/badge/html-00000F?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,5 +17,4 @@ Estas são as tecnologias que estou usando dirariamente:
 ![Vítor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorverg97&show_icons=true&theme=dark)
 
 *Contador de visitas*
-
 ![VisitorCount](https://profile-counter.glitch.me/{Vitorverg97}/count.svg)
