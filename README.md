@@ -1,9 +1,7 @@
 
-# Olá eu sou o Vítor!
+# Olá eu sou o Vítor! | # Hi i'm Vítor!
 
-# Hi i'm Vítor!
-
-![Flag BR](https://github.com/user-attachments/assets/3c07c236-78eb-4187-bc5a-e5d82064e653)
+![br](https://github.com/user-attachments/assets/8ddc86a1-3411-4e6b-b317-9f768d9e6f2f)
 
 ### Eu Sou um estudante da Faculdade Senac em Análise e Desenvolvimento de Sistemas, aprendendo estas habilidades:
 
