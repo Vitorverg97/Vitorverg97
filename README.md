@@ -3,9 +3,10 @@
 
 # Hi i'm Vítor!
 
-🇧🇷
+![Flag BR](https://github.com/user-attachments/assets/3c07c236-78eb-4187-bc5a-e5d82064e653)
 
 ### Eu Sou um estudante da Faculdade Senac em Análise e Desenvolvimento de Sistemas, aprendendo estas habilidades:
+
 
 ### I am a Student at Senac College in Analysis and Systems Developer, learning these capabilities: 
 
