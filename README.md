@@ -3,7 +3,7 @@
 
 # Hi i'm Vítor!
 
-🇧🇷:
+🇧🇷
 
 ### Eu Sou um estudante da Faculdade Senac em Análise e Desenvolvimento de Sistemas, aprendendo estas habilidades:
 
@@ -21,5 +21,5 @@
 ![Vítor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorverg97&show_icons=true&theme=dark)
 
 *Contador de visitas*
-
+(*Visits counter*)
 ![VisitorCount](https://profile-counter.glitch.me/{Vitorverg97}/count.svg)
