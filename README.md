@@ -1,4 +1,4 @@
-# Olá eu sou o Vítor! | # Hi i'm Vítor!
+# Olá eu sou o Vítor! | Hi i'm Vítor!
 
 ### 🇧🇷
 
